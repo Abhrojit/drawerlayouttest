@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string-array name="navigation_drawer_action_bar">
+        <item>About Us</item>
+        <item>Contact Us</item>
+        <item>Our locations</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="about_us_fragment">In about us fragment</string>
+    <string name="contact_us_fragment">In contact us fragment</string>
+    <string name="our_location_fragment">In our location fragment</string>
+
+</resources>
